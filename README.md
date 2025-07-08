@@ -1,12 +1,16 @@
-# Olá sou Jean Marlison
+# Olá, eu sou Jean Marlison!
 
-### Sobre mim: 
-- 🎓 Sou discente de **Engenharia de Computação** pela **UFPA – Campus Castanhal**  
-- 💼 Estagiário na **Compass UOL – Scholarship**  
-- 💻 Tutor de **Informática** e apaixonado por tecnologia e aprendizado contínuo
+### 🎓 Sobre mim:
+- Estudante de **Engenharia de Computação** pela **UFPA – Campus Castanhal**
+- 💼 Estagiário no programa **Compass UOL – Scholarship**, atuando com **Engenharia de Dados**
+- 💻 Tutor de Informática na **UFPA – Campus Castanhal**
+- ❤️ Apaixonado por tecnologia, educação e impacto socia.
+
+---
+
+### 🚀 Tecnologias e Ferramentas que uso:
 
 <div style="display: inline_block"><br>
-  <!-- Ícones adicionais -->
   <img align="center" alt="Jean-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Jean-Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -18,11 +22,23 @@
   <img align="center" alt="Jean-React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jean-VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Jean-Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Jean-Cava" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-          
+  <img align="center" alt="Jean-Canva" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 </div>
 
 ---
-<div>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanMarlison&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlison&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320"/>
+
+### 📊 Estatísticas GitHub
+
+<div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JeanMarlison&show_icons=true&theme=radical" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlison&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" />
+</div>
+
+---
+
+### 💬 Me encontre por aqui:
+- [LinkedIn](https://www.linkedin.com/in/jeanmarlison)
+- Email: **[jmas042000@gmail.com](jmas042000@gmail.com)**
+- GitHub: **[@JeanMarlison](https://github.com/JeanMarlison)**
+
+---
